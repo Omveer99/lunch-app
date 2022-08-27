@@ -1,0 +1,206 @@
+08-27 20:07:16.969  4162  4185 I TestRunner: started: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+08-27 20:07:16.981  4162  4185 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-27 20:07:16.993  4162  4185 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10427; state: ENABLED
+08-27 20:07:17.003  1393  1393 W SmoMo   : DisplayExtnImpl::SetActiveConfig: HWC Display 0 is not registered!
+08-27 20:07:17.009  1307  1555 I SDM     : HWDeviceDRM::UpdateMixerAttributes: Mixer WxH 1080x2460 for Peripheral
+08-27 20:07:17.009  1307  1555 I SDM     : StrategyImpl::SetIdleTimeoutMs: Idle timeout: active = 0, inactive = 520
+08-27 20:07:17.009  1307  1555 I SDM     : HWCDisplay::SubmitDisplayConfig: Active configuration changed to: 1
+08-27 20:07:17.009  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.013  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 1
+08-27 20:07:17.030  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.047  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.055  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.062  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.072  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: PRE_ON_CREATE
+08-27 20:07:17.074  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.077 17071 17151 I BtGatt.ScanManager: msg.what = 8
+08-27 20:07:17.077 17071 17151 I BtGatt.ScanManager: msg.what = 5
+08-27 20:07:17.087  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.093  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:17.105  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.111  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: CREATED
+08-27 20:07:17.112  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.112  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.115  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: STARTED
+08-27 20:07:17.116  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.120  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.121  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 1
+08-27 20:07:17.125  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: RESUMED
+08-27 20:07:17.126  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.128 19745 19745 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+08-27 20:07:17.129  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: PAUSED
+08-27 20:07:17.130  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.130  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.138  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.146  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.154  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.162  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.164  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc in: PRE_ON_CREATE
+08-27 20:07:17.165  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-27 20:07:17.170  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.179  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.187  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.192  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc in: CREATED
+08-27 20:07:17.192  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc
+08-27 20:07:17.195  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc in: STARTED
+08-27 20:07:17.195  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc
+08-27 20:07:17.196  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.197  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc in: RESUMED
+08-27 20:07:17.197  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@61fbccc
+08-27 20:07:17.202  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:17.205  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.213  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.222  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: QUALCOMM build                   : 223000e821, I12e4aa4c5c
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Build Date                       : 01/22/22
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.17
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Local Branch                     :
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Remote Branch                    :
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Remote Branch                    :
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Reconstruct Branch               :
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+08-27 20:07:17.233  4162  4188 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+08-27 20:07:17.238  4162  4188 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+08-27 20:07:17.239  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.246  1307  1555 I SDM     : HWCDisplay::GetColorModeCount: Supported color mode count = 3
+08-27 20:07:17.246  1307  1555 I SDM     : HWCDisplay::GetColorModes: Color mode = 0 is supported
+08-27 20:07:17.246  1307  1555 I SDM     : HWCDisplay::GetColorModes: Color mode = 7 is supported
+08-27 20:07:17.246  1307  1555 I SDM     : HWCDisplay::GetColorModes: Color mode = 9 is supported
+08-27 20:07:17.247  4162  4188 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+08-27 20:07:17.256  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.272  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.273  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 0
+08-27 20:07:17.276 26757 26797 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +275ms
+08-27 20:07:17.289  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.292  4162  4162 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10427; state: ENABLED
+08-27 20:07:17.305  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.322  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.338  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.355  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.371  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.373 17071 17151 I BtGatt.ScanManager: msg.what = 6
+08-27 20:07:17.391  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.395 31758 31758 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+08-27 20:07:17.395 31758 31758 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+08-27 20:07:17.407  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.415  4162  4185 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-27 20:07:17.416  4162  4185 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+08-27 20:07:17.417  4162  4185 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+08-27 20:07:17.417  4162  4185 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+08-27 20:07:17.421  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.429  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.439  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.440  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a in: STOPPED
+08-27 20:07:17.442  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@21d427a
+08-27 20:07:17.450 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3273
+08-27 20:07:17.452 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2165 repeatCheckTimes = 0, unlocked = true
+08-27 20:07:17.453 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1956 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+08-27 20:07:17.453 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4081 ShouldHideHeaderOnInitialState = false
+08-27 20:07:17.453 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2165 repeatCheckTimes = 2, unlocked = true
+08-27 20:07:17.455  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.471  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.479  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.488  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.498  4162  4185 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+08-27 20:07:17.502  4162  4162 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+08-27 20:07:17.502  4162  4162 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+08-27 20:07:17.502  4162  4162 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+08-27 20:07:17.505  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.506  4162  4162 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+08-27 20:07:17.506  4162  4162 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+08-27 20:07:17.506  4162  4162 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+08-27 20:07:17.510  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231142/com.example.lunchtray:id/salad>
+08-27 20:07:17.515  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:17.516  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:17.521  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.546  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.566 26757 28539 W InputManager-JNI: Input channel object 'aed5b2 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+08-27 20:07:17.575  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:17.587  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.596  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.604  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.612  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.621  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.630  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.638  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.645 17071 17151 I BtGatt.ScanManager: msg.what = 6
+08-27 20:07:17.645 13993 14007 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-27 20:07:17.646 13993 14007 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-27 20:07:17.646  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.648 13993 14007 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-27 20:07:17.655  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.656 13993 14007 I FontLog : Pulling font file for id = 352, cache size = 5 [CONTEXT service_id=132 ]
+08-27 20:07:17.661 13993 14007 I FontLog : Pulling font file for id = 352, cache size = 5 [CONTEXT service_id=132 ]
+08-27 20:07:17.663  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.670  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.679  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.688  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.695  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.704  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.712  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.721  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.732  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:17.828  4162  4162 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"}' assertion on view view.getId() is <2131231221/com.example.lunchtray:id/subtotal>
+08-27 20:07:17.832  4162  4185 E TestRunner: failed: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+08-27 20:07:17.832  4162  4185 E TestRunner: ----- begin exception -----
+08-27 20:07:17.833  4162  4185 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"' doesn't match the selected view.
+08-27 20:07:17.833  4162  4185 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"
+08-27 20:07:17.833  4162  4185 E TestRunner:      Got: view.getText() was "Subtotal: ₱2.50"
+08-27 20:07:17.833  4162  4185 E TestRunner: View Details: TextView{id=2131231221, res-name=subtotal, visibility=VISIBLE, width=281, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d3112e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=759.0, y=949.0, text=Subtotal: ₱2.50, input-type=0, ime-target=false, has-links=false}
+08-27 20:07:17.833  4162  4185 E TestRunner:
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_side_menu_subtotal(OrderFunctionalityTests.kt:84)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2342)
+08-27 20:07:17.833  4162  4185 E TestRunner: Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"' doesn't match the selected view.
+08-27 20:07:17.833  4162  4185 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"
+08-27 20:07:17.833  4162  4185 E TestRunner:      Got: view.getText() was "Subtotal: ₱2.50"
+08-27 20:07:17.833  4162  4185 E TestRunner: View Details: TextView{id=2131231221, res-name=subtotal, visibility=VISIBLE, width=281, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d3112e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=759.0, y=949.0, text=Subtotal: ₱2.50, input-type=0, ime-target=false, has-links=false}
+08-27 20:07:17.833  4162  4185 E TestRunner:
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:978)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:238)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.os.Looper.loop(Looper.java:357)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:8090)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+08-27 20:07:17.833  4162  4185 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1026)
+08-27 20:07:17.833  4162  4185 E TestRunner: ----- end exception -----
+08-27 20:07:17.845  4162  4185 I TestRunner: finished: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)

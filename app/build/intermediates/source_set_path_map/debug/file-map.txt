@@ -1,0 +1,50 @@
+com.example.lunchtray.app-lifecycle-livedata-core-ktx-2.4.1-0 C:\Users\omvee\.gradle\caches\transforms-3\01b5d6f5dc6564dbb82b3e40c04378f6\transformed\lifecycle-livedata-core-ktx-2.4.1\res
+com.example.lunchtray.app-fragment-testing-1.4.1-1 C:\Users\omvee\.gradle\caches\transforms-3\0658bff41fc4e6d1dfdf57ca0b1a0dd0\transformed\fragment-testing-1.4.1\res
+com.example.lunchtray.app-coordinatorlayout-1.1.0-2 C:\Users\omvee\.gradle\caches\transforms-3\099e52a8bf38ff2196526bd061dbdb79\transformed\coordinatorlayout-1.1.0\res
+com.example.lunchtray.app-savedstate-1.1.0-3 C:\Users\omvee\.gradle\caches\transforms-3\0c3f685d97b0c87d3022842ee08a0c4d\transformed\savedstate-1.1.0\res
+com.example.lunchtray.app-fragment-ktx-1.4.1-4 C:\Users\omvee\.gradle\caches\transforms-3\101364387f542e8f532318d33d792495\transformed\fragment-ktx-1.4.1\res
+com.example.lunchtray.app-navigation-fragment-2.4.2-5 C:\Users\omvee\.gradle\caches\transforms-3\1397f4a787de231669c08cd54b2dca7b\transformed\navigation-fragment-2.4.2\res
+com.example.lunchtray.app-fragment-1.4.1-6 C:\Users\omvee\.gradle\caches\transforms-3\1535d9a8a905260ebe92881301690f66\transformed\fragment-1.4.1\res
+com.example.lunchtray.app-lifecycle-runtime-2.4.0-7 C:\Users\omvee\.gradle\caches\transforms-3\28edcd3548ecea5265b3fbc00f23f11f\transformed\lifecycle-runtime-2.4.0\res
+com.example.lunchtray.app-lifecycle-livedata-core-2.4.1-8 C:\Users\omvee\.gradle\caches\transforms-3\2ce809b73c2d40e9f67589384ad7d373\transformed\lifecycle-livedata-core-2.4.1\res
+com.example.lunchtray.app-media-1.0.0-9 C:\Users\omvee\.gradle\caches\transforms-3\2ed5e5ea840320ef41cb29803cb73733\transformed\media-1.0.0\res
+com.example.lunchtray.app-navigation-fragment-ktx-2.4.2-10 C:\Users\omvee\.gradle\caches\transforms-3\30079a61e0a7dd16c28b7ac9bf0c7170\transformed\navigation-fragment-ktx-2.4.2\res
+com.example.lunchtray.app-annotation-experimental-1.1.0-11 C:\Users\omvee\.gradle\caches\transforms-3\32364004825e19d4f2b6c721d2e7c889\transformed\annotation-experimental-1.1.0\res
+com.example.lunchtray.app-navigation-common-ktx-2.4.2-12 C:\Users\omvee\.gradle\caches\transforms-3\388a9c4ac7a1a07aec6af0852b178882\transformed\navigation-common-ktx-2.4.2\res
+com.example.lunchtray.app-emoji2-views-helper-1.0.0-13 C:\Users\omvee\.gradle\caches\transforms-3\419482d7f473f451be7d3894e5fa228f\transformed\emoji2-views-helper-1.0.0\res
+com.example.lunchtray.app-startup-runtime-1.0.0-14 C:\Users\omvee\.gradle\caches\transforms-3\41ba879e318ef38cd2d8d65094332d3d\transformed\startup-runtime-1.0.0\res
+com.example.lunchtray.app-emoji2-1.0.0-15 C:\Users\omvee\.gradle\caches\transforms-3\43902799c3d67f896920151c4e7d9da8\transformed\emoji2-1.0.0\res
+com.example.lunchtray.app-lifecycle-viewmodel-ktx-2.4.1-16 C:\Users\omvee\.gradle\caches\transforms-3\4c5ff2c197a87fd81280d1bf7497ff42\transformed\lifecycle-viewmodel-ktx-2.4.1\res
+com.example.lunchtray.app-material-1.6.0-17 C:\Users\omvee\.gradle\caches\transforms-3\4cf9fbebf85e0e0bff37b109e8f2b95a\transformed\material-1.6.0\res
+com.example.lunchtray.app-transition-1.4.1-18 C:\Users\omvee\.gradle\caches\transforms-3\5ffbb13fafaf02f27c8e0525db6ea75b\transformed\transition-1.4.1\res
+com.example.lunchtray.app-cardview-1.0.0-19 C:\Users\omvee\.gradle\caches\transforms-3\60928314296c4602a2e5bbdbb61d1af4\transformed\cardview-1.0.0\res
+com.example.lunchtray.app-navigation-common-2.4.2-20 C:\Users\omvee\.gradle\caches\transforms-3\653b32ff3bda1534a446040708a86e7c\transformed\navigation-common-2.4.2\res
+com.example.lunchtray.app-constraintlayout-2.1.3-21 C:\Users\omvee\.gradle\caches\transforms-3\66f8fa9346b88029ee1d879724491c7c\transformed\constraintlayout-2.1.3\res
+com.example.lunchtray.app-lifecycle-livedata-ktx-2.4.1-22 C:\Users\omvee\.gradle\caches\transforms-3\6cf3034931717947309621533d8f756e\transformed\lifecycle-livedata-ktx-2.4.1\res
+com.example.lunchtray.app-navigation-runtime-2.4.2-23 C:\Users\omvee\.gradle\caches\transforms-3\8919ee292a08c59d5395a058197b5ead\transformed\navigation-runtime-2.4.2\res
+com.example.lunchtray.app-window-1.0.0-24 C:\Users\omvee\.gradle\caches\transforms-3\8f8608dbd6c6fb0c66ce4111cb318f32\transformed\window-1.0.0\res
+com.example.lunchtray.app-viewpager2-1.0.0-25 C:\Users\omvee\.gradle\caches\transforms-3\99b7ec2a5a7252ca9c9cc0324d6f160c\transformed\viewpager2-1.0.0\res
+com.example.lunchtray.app-recyclerview-1.1.0-26 C:\Users\omvee\.gradle\caches\transforms-3\9ceab49f6b6acf1967b044c177ef0da2\transformed\recyclerview-1.1.0\res
+com.example.lunchtray.app-core-ktx-1.7.0-27 C:\Users\omvee\.gradle\caches\transforms-3\a3659ffdd1d4f44e5dc8e885093aace4\transformed\core-ktx-1.7.0\res
+com.example.lunchtray.app-lifecycle-viewmodel-2.4.1-28 C:\Users\omvee\.gradle\caches\transforms-3\b2f5abe3e33d155df3179be0695c78ed\transformed\lifecycle-viewmodel-2.4.1\res
+com.example.lunchtray.app-core-1.7.0-29 C:\Users\omvee\.gradle\caches\transforms-3\b7e3e2988e1387b0fc38ef8fc911e040\transformed\core-1.7.0\res
+com.example.lunchtray.app-lifecycle-viewmodel-savedstate-2.4.1-30 C:\Users\omvee\.gradle\caches\transforms-3\c04b7fd5e7151f683244657d069986b0\transformed\lifecycle-viewmodel-savedstate-2.4.1\res
+com.example.lunchtray.app-appcompat-1.4.1-31 C:\Users\omvee\.gradle\caches\transforms-3\c3e3ea6b838f25c3d2a1cca48d0396fa\transformed\appcompat-1.4.1\res
+com.example.lunchtray.app-lifecycle-livedata-2.4.1-32 C:\Users\omvee\.gradle\caches\transforms-3\c8c8787313680dd4f46e2b03b64f4047\transformed\lifecycle-livedata-2.4.1\res
+com.example.lunchtray.app-drawerlayout-1.1.1-33 C:\Users\omvee\.gradle\caches\transforms-3\cf30035f2bf8bdb3ad2f255bf2eb86ff\transformed\drawerlayout-1.1.1\res
+com.example.lunchtray.app-appcompat-resources-1.4.1-34 C:\Users\omvee\.gradle\caches\transforms-3\d769eb62f466fbb750a881d2ec0d5207\transformed\appcompat-resources-1.4.1\res
+com.example.lunchtray.app-slidingpanelayout-1.2.0-35 C:\Users\omvee\.gradle\caches\transforms-3\d81204d7d7824b8657b96445edf8198a\transformed\slidingpanelayout-1.2.0\res
+com.example.lunchtray.app-databinding-adapters-7.2.1-36 C:\Users\omvee\.gradle\caches\transforms-3\db5129c961655ae7614003952bc1b1aa\transformed\databinding-adapters-7.2.1\res
+com.example.lunchtray.app-navigation-ui-2.4.2-37 C:\Users\omvee\.gradle\caches\transforms-3\e1b7b6461bdc65099760f2b2c4267278\transformed\navigation-ui-2.4.2\res
+com.example.lunchtray.app-databinding-runtime-7.2.1-38 C:\Users\omvee\.gradle\caches\transforms-3\e2610a0c028a235a7f584fe60db35376\transformed\databinding-runtime-7.2.1\res
+com.example.lunchtray.app-navigation-runtime-ktx-2.4.2-39 C:\Users\omvee\.gradle\caches\transforms-3\f6c9beaaaf1ee7d5f2c6b27dc006fc23\transformed\navigation-runtime-ktx-2.4.2\res
+com.example.lunchtray.app-lifecycle-process-2.4.0-40 C:\Users\omvee\.gradle\caches\transforms-3\f9cbee566722c902ffa599d859bba62e\transformed\lifecycle-process-2.4.0\res
+com.example.lunchtray.app-navigation-ui-ktx-2.4.2-41 C:\Users\omvee\.gradle\caches\transforms-3\fa688e0f6dce7407fb944733df1d1918\transformed\navigation-ui-ktx-2.4.2\res
+com.example.lunchtray.app-pngs-42 D:\lunch Tray App\app\build\generated\res\pngs\debug
+com.example.lunchtray.app-resValues-43 D:\lunch Tray App\app\build\generated\res\resValues\debug
+com.example.lunchtray.app-rs-44 D:\lunch Tray App\app\build\generated\res\rs\debug
+com.example.lunchtray.app-mergeDebugResources-45 D:\lunch Tray App\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.lunchtray.app-mergeDebugResources-46 D:\lunch Tray App\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.lunchtray.app-merged_res-47 D:\lunch Tray App\app\build\intermediates\merged_res\debug
+com.example.lunchtray.app-debug-48 D:\lunch Tray App\app\src\debug\res
+com.example.lunchtray.app-main-49 D:\lunch Tray App\app\src\main\res

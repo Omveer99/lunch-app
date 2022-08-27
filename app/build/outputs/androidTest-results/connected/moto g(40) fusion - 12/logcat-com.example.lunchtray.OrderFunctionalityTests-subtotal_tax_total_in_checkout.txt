@@ -1,0 +1,232 @@
+08-27 20:07:27.771  4162  4185 I TestRunner: started: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
+08-27 20:07:27.787  4162  4185 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-27 20:07:27.805  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 1
+08-27 20:07:27.819  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.829  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.830  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: PRE_ON_CREATE
+08-27 20:07:27.830  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.831  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.831  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.831  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.832  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.838  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.847  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: CREATED
+08-27 20:07:27.848  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.848  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.849  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.849  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.850  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.854  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.855  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: STARTED
+08-27 20:07:27.856  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.856  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.857  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.857  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.858  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.861  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:27.864  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 1
+08-27 20:07:27.865  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.867  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: RESUMED
+08-27 20:07:27.868  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.868  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.869  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.869  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.870  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.872  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: PAUSED
+08-27 20:07:27.872  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.872  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.873  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.873  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.873  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:27.881  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.885  4162  4162 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@c1834f3 in: PRE_ON_CREATE
+08-27 20:07:27.886  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+08-27 20:07:27.886  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+08-27 20:07:27.887  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+08-27 20:07:27.887  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+08-27 20:07:27.887  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-27 20:07:27.896  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.904  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.912  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.914  4162  4162 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@c1834f3 in: CREATED
+08-27 20:07:27.915  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.915  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.916  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.916  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.916  4162  4162 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.917 19745 19745 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+08-27 20:07:27.921  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.928  4162  4162 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@c1834f3 in: STARTED
+08-27 20:07:27.929  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.929  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.929  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.929  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.930  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.930  4162  4162 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.932  4162  4162 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@c1834f3 in: RESUMED
+08-27 20:07:27.932  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.932  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.933  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.933  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.933  4162  4162 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@c1834f3
+08-27 20:07:27.937  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.946  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.954  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.961  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:27.965  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.982 26757 26797 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +180ms
+08-27 20:07:27.982  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:27.985  4162  4162 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+08-27 20:07:27.987  1314  1314 I QTI PowerHAL: Power setMode: 5 to: 0
+08-27 20:07:27.990  4162  4177 I OpenGLRenderer: Davey! duration=9222821454447ms; Flags=1, FrameTimelineVsyncId=57597242, IntendedVsync=550582407261458, Vsync=550582407261458, InputEventId=0, HandleInputStart=550582407660888, AnimationStart=550582407662607, PerformTraversalsStart=550582407663388, DrawStart=550582431309484, FrameDeadline=550582422928124, FrameInterval=550582407657086, FrameStartTime=8333333, SyncQueued=550582435236464, SyncStart=550582435345578, IssueDrawCommandsStart=550582435425474, SwapBuffers=550582436416620, FrameCompleted=9223372036854775807, DequeueBufferDuration=17656, QueueBufferDuration=630052, GpuCompleted=9223372036854775807, SwapBuffersCompleted=550582437417297, DisplayPresentTime=0,
+08-27 20:07:27.996  4162  4162 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+08-27 20:07:28.007  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.013 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3273
+08-27 20:07:28.015 27485 27485 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 1
+08-27 20:07:28.015 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2165 repeatCheckTimes = 0, unlocked = true
+08-27 20:07:28.015 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1956 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+08-27 20:07:28.015 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4081 ShouldHideHeaderOnInitialState = false
+08-27 20:07:28.015 31916 31916 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2165 repeatCheckTimes = 2, unlocked = true
+08-27 20:07:28.018 27559 27559 V DeviceStatisticsService: chargerType=2 batteryLevel=98 totalBatteryCapacity=5985000
+08-27 20:07:28.030  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.047  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.064  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.077  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231212/com.example.lunchtray:id/start_order_btn>
+08-27 20:07:28.081  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.081  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.082  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.098  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.113  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.131  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.141 17071 17151 I BtGatt.ScanManager: msg.what = 6
+08-27 20:07:28.148  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.160 31758 31758 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+08-27 20:07:28.160 31758 31758 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+08-27 20:07:28.160  4162  4162 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1 in: STOPPED
+08-27 20:07:28.161  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:28.162  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:28.162  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:28.164  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:28.165  4162  4162 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e043ff1
+08-27 20:07:28.174  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.189  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.197  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.198  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.205  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.213  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.222  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.238  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.246  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.275 26757 29337 W InputManager-JNI: Input channel object '1ae49c6 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+08-27 20:07:28.277  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.297  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.304  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.312  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.320  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.329  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.338  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.346  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.354  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.363  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.371  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.379  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.388  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.396  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.405  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.416  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.430  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.440  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.543  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230848/com.example.lunchtray:id/cauliflower>
+08-27 20:07:28.548  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.550  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.611  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.686  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.703  1307  1555 I SDM     : HWCDisplayBuiltIn::GetOptimalRefreshRate: active_refresh_rate_: 60
+08-27 20:07:28.840  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231085/com.example.lunchtray:id/next_button>
+08-27 20:07:28.845  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:28.848  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:29.186  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231142/com.example.lunchtray:id/salad>
+08-27 20:07:29.191  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:29.192  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:29.479  4162  4162 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231085/com.example.lunchtray:id/next_button>
+08-27 20:07:29.483  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:29.484  1314  1314 I QTI PowerHAL: Power setBoost: 0, duration: 0
+08-27 20:07:29.536  4162  4162 W UiControllerImpl: ignoring signal of: MOTION_INJECTION_HAS_COMPLETED from previous generation: 401 current generation: 402
+08-27 20:07:29.537  4162  4185 E TestRunner: failed: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
+08-27 20:07:29.537  4162  4185 E TestRunner: ----- begin exception -----
+08-27 20:07:29.539  4162  4185 E TestRunner: androidx.test.espresso.PerformException: Error performing 'single click - At Coordinates: 799, 1517 and precision: 16, 16' on view 'Animations or transitions are enabled on the target device.
+08-27 20:07:29.539  4162  4185 E TestRunner: For more info check: https://developer.android.com/training/testing/espresso/setup#set-up-environment
+08-27 20:07:29.539  4162  4185 E TestRunner:
+08-27 20:07:29.539  4162  4185 E TestRunner: view.getId() is <2131231085/com.example.lunchtray:id/next_button>'.
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.PerformException$Builder.build(PerformException.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:9)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:11)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:4)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at com.example.lunchtray.BaseTest.fullOrderFlow(BaseTest.kt:37)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at com.example.lunchtray.OrderFunctionalityTests.subtotal_tax_total_in_checkout(OrderFunctionalityTests.kt:169)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2342)
+08-27 20:07:29.539  4162  4185 E TestRunner: Caused by: java.lang.IllegalStateException: Could not find method @{() -> fragment.goToNextScreen()(View) in a parent or ancestor Context for android:onClick attribute defined on view class com.google.android.material.button.MaterialButton with id 'next_button'
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.resolveMethod(AppCompatViewInflater.java:479)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:437)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.view.View.performClick(View.java:7467)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:1194)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.view.View.performClickInternal(View.java:7444)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.view.View.access$3700(View.java:840)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.view.View$PerformClick.run(View.java:28831)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:978)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.Interrogator.loopAndInterrogate(Interrogator.java:14)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.UiControllerImpl.loopUntil(UiControllerImpl.java:8)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.UiControllerImpl.loopUntil(UiControllerImpl.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.base.UiControllerImpl.injectMotionEvent(UiControllerImpl.java:6)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.MotionEvents.sendUp(MotionEvents.java:7)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.MotionEvents.sendUp(MotionEvents.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.Tap.sendSingleTap(Tap.java:5)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.Tap.access$100(Tap.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.Tap$1.sendTap(Tap.java:3)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.action.GeneralClickAction.perform(GeneralClickAction.java:6)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAction.perform(ViewInteraction.java:2)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:22)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction.access$100(ViewInteraction.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:2)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:1)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:978)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:238)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.os.Looper.loop(Looper.java:357)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:8090)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+08-27 20:07:29.539  4162  4185 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1026)
+08-27 20:07:29.539  4162  4185 E TestRunner: ----- end exception -----
+08-27 20:07:29.548  4162  4185 I TestRunner: finished: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
